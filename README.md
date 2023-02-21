@@ -14,4 +14,4 @@ Rick and Morty
 
 ---
 
-https://yurii-dev.netlify.app/
+https://cartoon-rick-and-morty.netlify.app/
